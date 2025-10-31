@@ -10,8 +10,7 @@ It demonstrates how SQL can be used for data storage and querying, while Python 
 - **SQL / MySQL** → Database creation and querying  
 - **Python** → Data analysis and visualization  
   - Libraries: `PyMySQL`, `Pandas`, `Matplotlib`, `Seaborn`  
-- **IDE** → VS Code / PyCharm / Jupyter Notebook  
-- **Excel (optional)** → For KPI checks  
+- **IDE** → VS Code / PyCharm / Jupyter Notebook   
 
 ---
 
